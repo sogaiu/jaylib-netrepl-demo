@@ -33,5 +33,5 @@ If everything went well, the background color should have changed.
 [1] Connecting to the netrepl server is editor-specific.  Some options
     include:
 
-    * [a-janet-spork-client](https://github.com/sogaiu/a-janet-spork-client)
-    * [conjure](https://github.com/Olical/conjure)
+   * [a-janet-spork-client](https://github.com/sogaiu/a-janet-spork-client)
+   * [conjure](https://github.com/Olical/conjure)
