@@ -57,3 +57,9 @@ changed.
 
    * [a-janet-spork-client](https://github.com/sogaiu/a-janet-spork-client)
    * [conjure](https://github.com/Olical/conjure)
+
+   It's also possible to use
+   [`spork`](https://github.com/janet-lang/spork)'s `janet-netrepl`'s
+   client mode (`-c`) to connect to the netrepl server and communicate
+   that way.
+
